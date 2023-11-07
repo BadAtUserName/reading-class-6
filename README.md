@@ -215,6 +215,30 @@ p. Dom in programming. <br>
 3. Examples please see page for examples https://developer.mozilla.org/en-4. US/docs/Web/API/Document_Object_Model/Introduction <br>
 Adding child please see page https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction<br>
 
+Reading questions<br>
+1. How would you describe an object to a non-technical friend you grew up with?<br>
+	a. An object is like a bucket, it is on it’s own a thing, but it also has properties like a handle, size, material it’s made of. An object in js is<br>		similar in that it has characteristics that define what it is.<br>
+<br>
+2. What are some advantages to creating object literals?<br>
+	a. By creating your own object literal you can give objects the characteristics that you desire also you can change them later.<br>
+<br>
+3. How do objects differ from arrays?<br>
+	a. The difference between objects and arrays is an array is best for storing things like numbers that can be accessed with their index, an object is<br> 		better for things that hold strings, and can be accessed with a keyword.<br>
+
+<br>
+4. Give an example for when you would need to use bracket notation to access an object’s property instead of dot notation.<br>
+	a. A property name that starts with a hyphen, or starts with a number, or is being held inside a variable needs to be accessed with bracket notation<br>
+
+5. Evaluate the code below. What does the term this refer to and what is the advantage to using this?<br>
+	a. This in the code below refers to specific characteristics of the object. In this case the string interpolation would output “Spot is 14 in human years.<br>
+<br>
+
+6. What is the DOM?<br>
+	a. The Document Object Model, represents the page/document it makes it possible for programs to alter the style/structure/content<br>
+
+8.Briefly describe the relationship between the DOM and JavaScript.
+	a. DOM is written in js, but is not a programming lang. DOM tells js where to put things on the page, and what they are made off.<br>
+
 	## Stuff I wan to know more about.
   the DOM is confusing. But i'm sure it will make sense after the lecture. 
 	
